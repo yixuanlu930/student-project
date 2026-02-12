@@ -5,3 +5,4 @@
 - Usage examples
 - How to contribute
 - Contact information
+- Email
